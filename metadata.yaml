@@ -29,6 +29,8 @@ creator:
     gutenberg_agent_id: '41934'
     url: http://www.gutenberg.org/2009/agents/41934
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42936#Engraving--Its-Origin-Processes-and-History
 gutenberg_issued: '2013-06-13'
 gutenberg_type: Text
 identifiers:
