@@ -1,0 +1,46 @@
+_repo: Engraving--Its-Origin-Processes-and-History_42936
+_version: 0.1.0
+contributor:
+  contributor:
+    agent_name: Walker, William
+    birthdate: 1821
+    gutenberg_agent_id: '41932'
+    url: http://www.gutenberg.org/2009/agents/41932
+  translator:
+    agent_name: Stevenson, Robert Alan Mowbray
+    aliases:
+    - Stevenson, Robert Allan Mowbray
+    - Stevenson, R. A. M.
+    birthdate: 1847
+    deathdate: 1900
+    gutenberg_agent_id: '41935'
+    url: http://www.gutenberg.org/2009/agents/41935
+covers:
+- cover_type: archival
+  image_path: 42936-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Delaborde, Henri, comte
+    aliases:
+    - Laborde, Henri, comte de
+    - Borde, Henri, comte de la
+    birthdate: 1811
+    deathdate: 1899
+    gutenberg_agent_id: '41934'
+    url: http://www.gutenberg.org/2009/agents/41934
+description: ''
+gutenberg_issued: '2013-06-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42936'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Engraving -- History'
+- !lcsh 'Engraving -- Great Britain'
+- !lcsh 'Engravers -- Great Britain'
+- !lcc 'NE'
+title: 'Engraving: Its Origin, Processes, and History'
+url: http://www.gutenberg.org/ebooks/42936
